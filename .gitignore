@@ -1,7 +1,6 @@
 Dockerfile
 .DS_store
 .idea/
-
 log/
 temp/
 tests/
