@@ -1,7 +1,8 @@
 Dockerfile
 .DS_store
 .idea/
-log/*
-temp/*
-tests/*
-vendor/*
+
+log/
+temp/
+tests/
+vendor/
