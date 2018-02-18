@@ -12,4 +12,5 @@ session:
 
 
 services:
-	router: App\RouterFactory::createRouter
+    router: App\RouterFactory::createRouter
+    - App\Forms\ExampleForm
