@@ -10,6 +10,9 @@
 <body>
 	<div n:foreach="$flashes as $flash" n:class="flash, $flash->type">{$flash->message}</div>
 
+	<a n:href="Homepage:">Homepage</a>
+	<a n:href="Movie:">Movies</a>
+	<hr>
 	{include content}
 
 	{block scripts}
